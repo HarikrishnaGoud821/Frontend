@@ -1,0 +1,25 @@
+.body{
+    background:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+.card{
+    width:300px;
+    background:white;
+    padding:20px;
+    text-align: center;
+    border-radius: 10px;;
+    box-shadow: 0 0 10px gray;
+}
+.img{
+    width:10px;
+    border-radius: 50;
+
+}
+button{
+    background:lightskyblue;
+    
+}
